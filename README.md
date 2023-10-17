@@ -1,2 +1,0 @@
-# reactAPP-AmplifyonAWS
-Hello
